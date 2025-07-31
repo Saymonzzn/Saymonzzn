@@ -3,7 +3,7 @@ Oii eu sou o Saymon Guimarães Lima
 - 🔭 No momento não estou trabalhando
 - 🌱 Estudando Python3. HTML5, CSS3
 - 👅 Possuo Curso de Inglês na FISK
-- 📚 Conhecimento em MySQL, VisualG, Figma, Word, Excel, PowerPoint, Windows
+- 📚 Conhecimento em MySQL, MongoDB, VisualG, Figma, Word, Excel, PowerPoint, Windows
 
 
   
